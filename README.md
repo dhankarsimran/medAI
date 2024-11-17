@@ -32,8 +32,7 @@ MedAI is a Flask application that utilizes AI algorithms to detect skin diseases
 
 
 ## Contributors
-| [<img src="https://github.com/dhankarsimran.png?size=100" width="100" height="100">](https://github.com/dhankarsimran)| [<img src="https://github.com/younes-ammari.png?size=100" width="100" height="100">](https://github.com/younes-ammari) | [<img src="https://github.com/rawan-reda.png?size=100" width="100" height="100">](https://github.com/rawan-reda) | [<img src="https://github.com/Al-codeing.png?size=100" width="100" height="100">](https://github.com/Al-codeing) | [<img src="https://github.com/Simo0o36.png?size=100" width="100" height="100">](https://github.com/Simo0o36) | [<img src="https://github.com/lindamakk.png?size=100" width="100" height="100">](https://github.com/lindamakk) | [<img src="https://github.com/thomusa.png?size=100" width="100" height="100">](https://github.com/thomusa) |
-| --- | --- | --- | --- | --- | --- |
+| [<img src="https://github.com/dhankarsimran.png?size=100" width="100" height="100">](https://github.com/dhankarsimran) | [<img src="https://github.com/younes-ammari.png?size=100" width="100" height="100">](https://github.com/younes-ammari) | [<img src="https://github.com/rawan-reda.png?size=100" width="100" height="100">](https://github.com/rawan-reda) | [<img src="https://github.com/Al-codeing.png?size=100" width="100" height="100">](https://github.com/Al-codeing) | [<img src="https://github.com/Simo0o36.png?size=100" width="100" height="100">](https://github.com/Simo0o36) | [<img src="https://github.com/lindamakk.png?size=100" width="100" height="100">](https://github.com/lindamakk) | [<img src="https://github.com/thomusa.png?size=100" width="100" height="100">](https://github.com/thomusa) |
 | [Simran Dhankar](https://github.com/dhankarsimran)| [Younes Ammari](https://github.com/younes-ammari) | [Rawan Reda](https://github.com/rawan-reda) | [Alma Nizar](https://github.com/Al-codeing) | [Samar Hawsawi](https://github.com/Simo0o36) | [Linda Almakramy](https://github.com/lindamakk) | [Thourya Musa](https://github.com/thomusa) |
 
 ## Getting Started
@@ -76,9 +75,6 @@ Make sure you have the following dependencies installed before running the proje
 
 - http://localhost:3000
 
-
-## Contact
-For any inquiries or feedback, please contact us at dev.younes.ammari@gmail.com.
 
 ## Website
 Visit the MedAI website for more information and live demos.
